@@ -11,6 +11,14 @@ This bot uses [mineflayer](https://www.npmjs.com/package/mineflayer) which is NO
 
 for any help you can dm me on discord MX1D#7609 or open an issue in the github page, hope you all enjoy the bot! :D
 
+# DISCLAIMER
+
+This bot uses [mineflayer](https://www.npmjs.com/package/mineflayer) which is NOT a normal minecraft client you can get the account banned for abusing this BUT The code i made is safe i been using it for months and didn't get the account banned but still this is USE AT YOUR OWN RISK
+
+# My discord
+
+for any help you can dm me on discord MX1D#7609 or open an issue in the github page, hope you all enjoy the bot! :D
+
 ## Token
 
 Firstly we have **Token** this is your Discord bot token
